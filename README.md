@@ -19,6 +19,7 @@ The app will start and options will be presented in terminal. Add a MySQL db, th
 
 ## Video
 
+[![Watch the video](https://img.youtube.com/vi/T0PZ7WWJVoU/maxresdefault.jpg)](https://youtu.be/T0PZ7WWJVoU)
 
 
 ## Contributing
