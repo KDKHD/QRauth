@@ -1,10 +1,10 @@
 # QRAuth
 
-A Java based app that uses QR Codes to verify the attendance of a customer. Implemented to efficiently register student attendance.
+A Java-based app that uses QR Codes to verify the attendance of a customer. Implemented to efficiently register student attendance.
 
 ## Prerequisites
 
-Runs in the JVM. You must connect a MySQL database to the project in order for it to work properly. Font end can be customized.
+Runs in the JVM. You must connect a MySQL database to the project for it to work properly. Font end can be customized.
 
 ## Running Locally
 
@@ -15,7 +15,7 @@ $ java -jar [jar file]
 
 ```
 
-The app will start and options will be presented in terminal. Add a MySQL db, then run.
+The app will start and options will be presented in the terminal. Add a MySQL DB, then run.
 
 ## Video
 
