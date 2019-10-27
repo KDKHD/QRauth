@@ -20,8 +20,6 @@ The app will start and options will be presented in the terminal. Add a MySQL DB
 ## Video
 [![Watch the video](https://img.youtube.com/vi/zPgHiH1Vj0Y/maxresdefault.jpg)](https://youtu.be/zPgHiH1Vj0Y)
 
-[![Watch the video](https://img.youtube.com/vi/T0PZ7WWJVoU/maxresdefault.jpg)](https://youtu.be/T0PZ7WWJVoU)
-
 ## Images
 ![Flow Chart](https://i.ibb.co/pfSZbnD/flow.png)
 
