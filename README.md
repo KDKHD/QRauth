@@ -1,4 +1,4 @@
-# QRAuth
+# QRAuth (2017)
 
 A Java-based app that uses QR Codes to verify the attendance of a customer. Implemented to efficiently register student attendance.
 
